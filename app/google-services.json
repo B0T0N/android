@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1068762685264",
+    "firebase_url": "https://segundo-2ef2e-default-rtdb.firebaseio.com",
+    "project_id": "segundo-2ef2e",
+    "storage_bucket": "segundo-2ef2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068762685264:android:f51a0e4f0feada7e829655",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068762685264-hi6jvr7oqi677klf8807b4nfqug2tde0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03qaF1xRWcFNPUTp-qqiy0zOoYqQ99Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068762685264-hi6jvr7oqi677klf8807b4nfqug2tde0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
